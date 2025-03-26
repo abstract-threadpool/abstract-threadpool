@@ -32,6 +32,10 @@ jobs:
     
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/rainbow.svg?palette=rainbow
+            dist/ocean.svg?palette=ocean
+            dist/fire.svg?palette=fire
+            dist/acid.svg?palette=acid
             dist/github-contribution-grid-snake-dark.svg?palette=rainbow
             
           
