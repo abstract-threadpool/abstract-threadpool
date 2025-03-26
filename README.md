@@ -1,6 +1,6 @@
 ### Hi
 
-![snake gif](https://github.com/abstract-threadpool/abstract-threadpool/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/abstract-threadpool/abstract-threadpool/blob/output/acid.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abstract-threadpool&show_icons=true&theme=chartreuse-dark)
 
