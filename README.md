@@ -1,4 +1,4 @@
-### Hi
+### Hi, I'm Richard Han and looking for new challenges 
 
 ![snake gif](https://github.com/abstract-threadpool/abstract-threadpool/blob/output/acid.svg)
 
