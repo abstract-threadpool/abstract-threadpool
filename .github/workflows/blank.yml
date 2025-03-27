@@ -33,10 +33,14 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/rainbow.svg?palette=rainbow
+            dist/plant.svg?palette=plant
+            dist/candy.svg?palette=candy
+            dist/github-dark.svg?palette=github-dark
+            dist/github-light.svg?palette=github-light
             dist/ocean.svg?palette=ocean
             dist/fire.svg?palette=fire
             dist/acid.svg?palette=acid
-            dist/github-contribution-grid-snake-dark.svg?palette=rainbow
+            dist/github-contribution-grid-snake-dark.svg?palette=acid
             
           
       # push the content of <build_dir> to a branch
